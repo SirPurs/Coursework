@@ -1,4 +1,4 @@
-
+// goal of this code is to calculate the number day of the year and take a boiling point of a substance and return the name of the substance
 
 #include <stdio.h>
 
