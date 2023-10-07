@@ -1,5 +1,4 @@
 
-// Joe boylan cis 1057 lab4
 
 #include <stdio.h>
 
