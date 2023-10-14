@@ -1,4 +1,4 @@
-// joe boylan cis 1057 lab 5
+// This project checks if a number is divisible by 9. Then also will calculate an approximation of PI based on user input of iterations on a formula.
 #include <stdio.h>
 
 
